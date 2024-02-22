@@ -1,5 +1,5 @@
 Hi there! 👋, my name is Danylo.
-I am ISTQB® Certified | Test Automation Engineer | Java
+- I am ISTQB® Certified | Test Automation Engineer | Java
 
 My tech stack includes:
 - 🎯 JAVA 8+ programming language.
