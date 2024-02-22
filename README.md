@@ -1,16 +1,16 @@
-### Hi there 👋
+Hi there👋, my name is Danylo
+I am ISTQB® Certified | Test Automation Engineer | Java
 
-<!--
-**satyricon77/satyricon77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My tech stack includes:
 
-Here are some ideas to get you started:
+🎯 JAVA 8+ programming language enthusiast.
+🎯 Explored Test NG, jUnit, Jenkins, Selenium, Selenide, Playwright, Maven, Selenoid, RestAssured, Docker, ExtentReports.
+🎯 Grounded in testing theory following ISTQB standards.
+🎯 Fluent in English (both spoken and written).
+🎯 Java EPP adept.
+🎯 Manual testing aficionado.
+🎯 Seasoned in functional, non-functional, and regression testing.
+🎯 Thrives as a collaborative team player and autonomous contributor.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀  Some Tools I Have Used and Learned
+docker java javascript jenkins linux postgresql puppeteer python selenium
