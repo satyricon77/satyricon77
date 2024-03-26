@@ -11,3 +11,5 @@ My tech stack includes:
 - 🎯 A little experience in multithreading.
 - 🎯 Good experience in functional, non-functional, and regression testing.
 - 🎯 Capable of being an effective contributor both in a collaborative setting and when working independently.
+
+Feel free to explore my "teststore" project, which serves as a showcase of my automation skills.
