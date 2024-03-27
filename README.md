@@ -13,3 +13,6 @@ My tech stack includes:
 - 🎯 Capable of being an effective contributor both in a collaborative setting and when working independently.
 
 Feel free to explore my "teststore" project, which serves as a showcase of my automation skills.
+
+
+[![Danylo profile views](https://u8views.com/api/v1/github/profiles/90909315/views/day-week-month-total-count.svg)](https://u8views.com/github/satyricon77)
