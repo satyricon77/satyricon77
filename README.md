@@ -1,6 +1,21 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&random=false&width=900&height=100&lines=Hello+%F0%9F%91%8B%F0%9F%8F%BC++My+Name+is+Danylo.;I'm+ISTQB%C2%AE+Certified+JAVA+AQA+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Feel+Free+To+Get+In+Touch+%F0%9F%A4%B3%F0%9F%8F%BC)](https://git.io/typing-svg)
-My tech stack includes:
-- 🎯 JAVA 8+ programming language.
+<!--Skills-->
+
+<a href="https://github.com/walidbosso">
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
+</a>
+ 
+
+<h3 align="center">
+ <a href="https://github.com/walidbosso">
+<img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="left" /> 
+    </a>
+ 
+ <a href="https://github.com/walidbosso">
+  <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right" />
+   </a>
+ 【﻿Ｓｋｉｌｌｓ】  
+</h3>- 🎯 JAVA 8+ programming language.
 - 🎯 Test NG, jUnit, Jenkins, Selenium, Selenide, Playwright, Maven, Selenoid, RestAssured, Docker.
 - 🎯 Good knowledge of testing theory according to ISTQB standards.
 - 🎯 Fluent in English (both speaking and writing).
