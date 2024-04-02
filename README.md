@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&random=false&width=435&lines=Hello!++My+Name+is+Danylo!;And+I'm+ISTQB%C2%AE+Certified+JAVA+AQA;Feel+Free+To+Get+In+Touch+With+Me!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1000&random=false&width=435&lines=Hello+%F0%9F%91%8B%F0%9F%8F%BC++My+Name+is+Danylo.;I'm+ISTQB%C2%AE+Certified+JAVA+AQA+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Feel+Free+To+Contact+%F0%9F%A4%B3%F0%9F%8F%BC)](https://git.io/typing-svg)
 
 My tech stack includes:
 - 🎯 JAVA 8+ programming language.
