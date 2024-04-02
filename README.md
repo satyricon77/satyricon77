@@ -18,7 +18,6 @@
 </a>
 <br>
 <br> 
-<div align="center">
 - 🎯 JAVA 8+ programming language.
 - 🎯 Test NG, jUnit, Jenkins, Selenium, Selenide, Playwright, Maven, Selenoid, RestAssured, Docker.
 - 🎯 Good knowledge of testing theory according to ISTQB standards.
