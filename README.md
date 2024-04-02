@@ -1,5 +1,4 @@
-# Hi there! 👋
-My name is Danylo and I am ISTQB® Certified Java Test Automation Engineer
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello!++My+Name+is+Danylo!;And+I'm+ISTQB%C2%AE+Certified+Java+Test+Automation+Engineer;Feel+Free+To+Get+In+Touch+With+Me!)](https://git.io/typing-svg)
 
 My tech stack includes:
 - 🎯 JAVA 8+ programming language.
