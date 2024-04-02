@@ -13,6 +13,14 @@
    </a>
  【﻿Ｓｋｉｌｌｓ】  
 </h3>
+<a href="https://github.com/walidbosso">
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"  />
+</a>
+
+<br>
+<br> 
+
+<div align="center">
 - 🎯 JAVA 8+ programming language.
 - 🎯 Test NG, jUnit, Jenkins, Selenium, Selenide, Playwright, Maven, Selenoid, RestAssured, Docker.
 - 🎯 Good knowledge of testing theory according to ISTQB standards.
