@@ -25,6 +25,8 @@
 - 🎯 Good experience in functional, non-functional, and change-related testing.
 - 🎯 Capable of being an effective contributor both in a collaborative setting and when working independently.
 
+<div style="margin-bottom: 20px;"></div>
+
 Feel free to explore my "teststore" project :lady_beetle:, which serves as a showcase of my automation skills.
 
 
