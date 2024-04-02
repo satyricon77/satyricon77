@@ -16,20 +16,18 @@
 <a href="https://github.com/walidbosso">
 <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"  />
 </a>
-
 <br>
 <br> 
-
 <div align="center">
--🎯 JAVA 8+ programming language.
--🎯 Test NG, jUnit, Jenkins, Selenium, Selenide, Playwright, Maven, Selenoid, RestAssured, Docker.
--🎯 Good knowledge of testing theory according to ISTQB standards.
--🎯 Fluent in English (both speaking and writing).
--🎯 Java EPP.
--🎯 Good background in manual testing.
--🎯 A little experience in multithreading.
--🎯 Good experience in functional, non-functional, and change-related testing.
--🎯 Capable of being an effective contributor both in a collaborative setting and when working independently.
+- 🎯 JAVA 8+ programming language.
+- 🎯 Test NG, jUnit, Jenkins, Selenium, Selenide, Playwright, Maven, Selenoid, RestAssured, Docker.
+- 🎯 Good knowledge of testing theory according to ISTQB standards.
+- 🎯 Fluent in English (both speaking and writing).
+- 🎯 Java EPP.
+- 🎯 Good background in manual testing.
+- 🎯 A little experience in multithreading.
+- 🎯 Good experience in functional, non-functional, and change-related testing.
+- 🎯 Capable of being an effective contributor both in a collaborative setting and when working independently.
 
 Feel free to explore my "teststore" project :lady_beetle:, which serves as a showcase of my automation skills.
 
