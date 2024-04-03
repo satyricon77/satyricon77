@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=40&pause=1000&color=34B5F7&background=40FFFA00&random=false&width=900&height=100&lines=Hello+%F0%9F%91%8B%F0%9F%8F%BC++My+Name+is+Danylo.;I'm+ISTQB%C2%AE+Certified+JAVA+AQA+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Feel+Free+To+Get+In+Touch+%F0%9F%A4%B3%F0%9F%8F%BC)](https://git.io/typing-svg)
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Danylo, ISTQB® certified Java Test Automation Engineer.</h1>
 <a href="https://github.com/walidbosso">
 <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
 </a>
