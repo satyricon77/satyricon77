@@ -19,7 +19,7 @@
 - 🎯 Fluent in English (both speaking and writing).
 - 🎯 Java EPP.
 - 🎯 Good background in manual testing.
-- 🎯 A little experience in multithreading.
+- 🎯 Experience in multithreading.
 - 🎯 Good experience in functional, non-functional, and change-related testing.
 - 🎯 Capable of being an effective contributor both in a collaborative setting and when working independently.
 
